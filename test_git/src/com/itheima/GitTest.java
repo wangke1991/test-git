@@ -6,5 +6,6 @@ public class GitTest {
     }
     public void test1(){
         System.out.println("修改");
+        System.out.println("修改");
     }
 }
